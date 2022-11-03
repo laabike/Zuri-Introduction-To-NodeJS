@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-week5",
+  "version": "1.0.0",
+  "description": "Nodejs server for portfolio",
+  "main": "hellonode.js",
+  "scripts": {
+    "start": "node hellonode.js"
+  },
+  "author": "Abike Ladele",
+  "license": "ISC"
+}
